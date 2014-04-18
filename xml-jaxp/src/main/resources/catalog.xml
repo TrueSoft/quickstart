@@ -23,10 +23,9 @@
         <genre>Action</genre>
         <price>44.95</price>
         <publish_date>2010-10-01</publish_date>
-        <description>007 adventures in japan!
-        </description>
+        <description>007 adventures in japan!</description>
     </book>
-    <book id="bk10@">
+    <book id="bk102">
         <author>Scott Card</author>
         <title>Enders Game</title>
         <genre>SciFi</genre>
